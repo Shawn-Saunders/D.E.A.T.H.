@@ -31,9 +31,9 @@ Julius mark Napuli is the projects scribe and bookkeeper. His primary duties are
 
 ## Deliverables
 
-- [ ] **Deliverable #1** — Foundations
+- [x] **Deliverable #1** — Foundations
   - [x] Cover page & table of contents
-  - [ ] Business case selection (project + 2–3 SDGs)
+  - [x] Business case selection (project + 2–3 SDGs)
   - [x] Group charter
 
 - [ ] **Deliverable #2** — Draft Final Report v1
